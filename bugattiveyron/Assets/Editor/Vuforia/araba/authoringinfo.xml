@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="araba" targetId="c0adbd3443bb4fbea3cdea97aa4fdbee" version="11.0" toolVersion="3.0.0" bbox="-0.545500 -0.323100 -1.185600 0.545500 0.320800 1.177000" previewImage="c0adbd3443bb4fbea3cdea97aa4fdbee_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="arabas_assembly" assemblyId="fc105142465e4285b08fd996975ecc00">
+<Part name="araba" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00429861 -0.00113879 2.559" rotation="AD: 0.9996834364464146 0.03606636045428817 -0.9746396423988055 183.035" image="araba_viewpoint_0000.png">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

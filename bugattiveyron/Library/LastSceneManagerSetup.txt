@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/bugattiscene.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuforiaScripts", "VuforiaScripts.csproj", "{086F40E1-95BF-C826-EDB5-53D23B13C616}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{ECA21909-ACED-C81C-3DD6-9FA9E1C24B7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuforiaEditorScripts", "VuforiaEditorScripts.csproj", "{F6909BF6-848E-9CD1-536F-5BCE914BF62B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{086F40E1-95BF-C826-EDB5-53D23B13C616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086F40E1-95BF-C826-EDB5-53D23B13C616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086F40E1-95BF-C826-EDB5-53D23B13C616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086F40E1-95BF-C826-EDB5-53D23B13C616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA21909-ACED-C81C-3DD6-9FA9E1C24B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA21909-ACED-C81C-3DD6-9FA9E1C24B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA21909-ACED-C81C-3DD6-9FA9E1C24B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA21909-ACED-C81C-3DD6-9FA9E1C24B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6909BF6-848E-9CD1-536F-5BCE914BF62B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6909BF6-848E-9CD1-536F-5BCE914BF62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6909BF6-848E-9CD1-536F-5BCE914BF62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6909BF6-848E-9CD1-536F-5BCE914BF62B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
